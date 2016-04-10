@@ -1,2 +1,2 @@
-# coursera
-Repositorio destinado a pratica dos conteudos do Coursera.org
+# Coursera
+Repositorio destinado a pratica dos conteudos do Coursera.org.
