@@ -1,0 +1,9 @@
+{
+  "name": "fullStack",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "bootstrap-social":"latest"
+  }
+}
